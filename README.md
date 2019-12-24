@@ -1,2 +1,2 @@
-# k8s_simple_chronjob
-Example of a simple Kubernetes scheduled job (chronjob).
+# k8s_simple_cronjob
+Example of a simple Kubernetes scheduled job (cronjob).
